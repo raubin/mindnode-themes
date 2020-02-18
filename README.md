@@ -1,2 +1,2 @@
 # mindnode-themes
-A handful of custom Mindnode themes
+A collection of custom Mindnode themes
