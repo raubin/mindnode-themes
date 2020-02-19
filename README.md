@@ -11,4 +11,9 @@ as items that are excluded from extracted themes.
 - https://mindnode.com/article/personal-themes
 
 
+## Theme list
+
+- [dark-purple]
+
 [Mindnode]: https://mindnode.com
+[dark-purple]: dark-purple/README.md
